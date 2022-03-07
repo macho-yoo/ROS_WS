@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/scout_odom/share/scout_odom/cmake/scout_odomConfig-version.cmake

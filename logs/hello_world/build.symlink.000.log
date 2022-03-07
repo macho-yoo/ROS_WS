@@ -1,0 +1,3 @@
+Symlinking /home/kw-cobot/catkin_ws/devel/lib/pkgconfig/hello_world.pc
+Symlinking /home/kw-cobot/catkin_ws/devel/share/hello_world/cmake/hello_worldConfig-version.cmake
+Symlinking /home/kw-cobot/catkin_ws/devel/share/hello_world/cmake/hello_worldConfig.cmake

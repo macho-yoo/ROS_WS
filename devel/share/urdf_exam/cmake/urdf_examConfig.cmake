@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/urdf_exam/share/urdf_exam/cmake/urdf_examConfig.cmake

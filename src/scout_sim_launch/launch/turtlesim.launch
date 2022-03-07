@@ -1,0 +1,15 @@
+<launch>
+	<!-- rosrun turtlesim turtlesim_node -->
+	<node name="a" pkg="turtlesim" type="turtlesim_node" output="log"/>
+	<node name="b" pkg="turtlesim" type="turtlesim_node" output="screen"/>
+	<!--rosrun scout_sim_lauch twist_pub.py ///// ns 사용하는거는 모든 이름이 바껴버린다-->
+	<node ns="turtle1" name="mover" pkg="scout_sim_launch" type="twist_pub.py" />
+
+	<!-- 다른거 이름 안바꾸고 토픽 하나만 이름 바꾸기
+	<node name="mover" pkg="scout_sim_launch" type="twist_pub.py">
+		<remap from="cmd_vel" to="turtle/cmd_vel"/>
+	</node>  
+	-->
+	<param name="linear_speed" value="0.5"/>
+	<param name="angular_speed" value="0.5"/>
+</launch>

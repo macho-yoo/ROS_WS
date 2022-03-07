@@ -1,0 +1,8 @@
+prefix=/home/kw-cobot/catkin_ws/devel/.private/scout_sim_launch
+
+Name: scout_sim_launch
+Description: Description of scout_sim_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

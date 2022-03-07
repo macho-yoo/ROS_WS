@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/scout_msgs/lib/python2.7/dist-packages/scout_msgs/msg/__init__.py

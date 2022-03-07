@@ -1,0 +1,8 @@
+prefix=/home/kw-cobot/catkin_ws/devel/.private/happy_ros
+
+Name: happy_ros
+Description: Description of happy_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

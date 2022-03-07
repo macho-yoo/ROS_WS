@@ -1,0 +1,3 @@
+Symlinking /home/kw-cobot/catkin_ws/devel/lib/pkgconfig/urdf_exam.pc
+Symlinking /home/kw-cobot/catkin_ws/devel/share/urdf_exam/cmake/urdf_examConfig-version.cmake
+Symlinking /home/kw-cobot/catkin_ws/devel/share/urdf_exam/cmake/urdf_examConfig.cmake

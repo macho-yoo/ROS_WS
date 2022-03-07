@@ -1,0 +1,5 @@
+urdf_exam
+/home/kw-cobot/catkin_ws/devel/.private/urdf_exam/cmake.lock /home/kw-cobot/catkin_ws/devel/./cmake.lock
+/home/kw-cobot/catkin_ws/devel/.private/urdf_exam/lib/pkgconfig/urdf_exam.pc /home/kw-cobot/catkin_ws/devel/lib/pkgconfig/urdf_exam.pc
+/home/kw-cobot/catkin_ws/devel/.private/urdf_exam/share/urdf_exam/cmake/urdf_examConfig-version.cmake /home/kw-cobot/catkin_ws/devel/share/urdf_exam/cmake/urdf_examConfig-version.cmake
+/home/kw-cobot/catkin_ws/devel/.private/urdf_exam/share/urdf_exam/cmake/urdf_examConfig.cmake /home/kw-cobot/catkin_ws/devel/share/urdf_exam/cmake/urdf_examConfig.cmake

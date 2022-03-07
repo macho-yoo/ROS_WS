@@ -1,0 +1,5 @@
+scout_sim_launch
+/home/kw-cobot/catkin_ws/devel/.private/scout_sim_launch/cmake.lock /home/kw-cobot/catkin_ws/devel/./cmake.lock
+/home/kw-cobot/catkin_ws/devel/.private/scout_sim_launch/lib/pkgconfig/scout_sim_launch.pc /home/kw-cobot/catkin_ws/devel/lib/pkgconfig/scout_sim_launch.pc
+/home/kw-cobot/catkin_ws/devel/.private/scout_sim_launch/share/scout_sim_launch/cmake/scout_sim_launchConfig-version.cmake /home/kw-cobot/catkin_ws/devel/share/scout_sim_launch/cmake/scout_sim_launchConfig-version.cmake
+/home/kw-cobot/catkin_ws/devel/.private/scout_sim_launch/share/scout_sim_launch/cmake/scout_sim_launchConfig.cmake /home/kw-cobot/catkin_ws/devel/share/scout_sim_launch/cmake/scout_sim_launchConfig.cmake

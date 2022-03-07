@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/scout_msgs/share/gennodejs/ros/scout_msgs/msg/ScoutLightState.js

@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/morai_msgs/share/roseus/ros/morai_msgs/manifest.l

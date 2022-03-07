@@ -1,0 +1,13 @@
+background_r: 255
+background_g: 192
+background_b: 203
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_kwcobot_hgdt_series__35981: 'http://kwcobot-HGDT-Series:35981/'}
+rosversion: '1.14.12
+
+  '
+run_id: 886ffd96-9059-11ec-a6f9-04d9f5884e7c
+turtlesim: {background_b: 203, background_g: 192, background_r: 255}
