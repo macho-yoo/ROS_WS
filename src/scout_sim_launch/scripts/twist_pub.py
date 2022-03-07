@@ -14,7 +14,7 @@ class topic_publisher():
 	def __init__(self):
 		rospy.init_node(NODE_NAME)
 		self.publisher1 = rospy.Publisher(TOPIC_NAME, MSG_TYPE, queue_size=1)
-		rospy.Timer(rospy.Duration(1.0 / PUBLISH_HZ), self.timer_CB)
+		rospy.Timer(rospy.Duration(1.2 / PUBLISH_HZ), self.timer_CB)
 		rospy.spin()
 
 	def timer_CB(self, event):
