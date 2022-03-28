@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/hector_mapping/share/gennodejs/ros/hector_mapping/srv/ResetMapping.js

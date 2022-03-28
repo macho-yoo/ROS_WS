@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~base_speed" : \b [double] Base Control Speed min: 0.0, default: 1.0, max: 2.5
+- \b "~speed_gain" : \b [double] Gain for Speed Down when Steering min: 0.0, default: 0.0, max: 0.3
+- \b "~min_speed" : \b [double] Minimum Speed for control min: 0.5, default: 0.0, max: 2.5
+

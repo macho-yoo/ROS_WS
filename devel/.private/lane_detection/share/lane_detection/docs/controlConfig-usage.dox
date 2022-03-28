@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="lane_detection" pkg="lane_detection" type="lane_detection">
+  <param name="base_speed" type="double" value="1.0" />
+  <param name="speed_gain" type="double" value="0.0" />
+  <param name="min_speed" type="double" value="0.0" />
+</node>
+\endverbatim
+

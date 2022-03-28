@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/lane_detection/lib/pkgconfig/lane_detection.pc

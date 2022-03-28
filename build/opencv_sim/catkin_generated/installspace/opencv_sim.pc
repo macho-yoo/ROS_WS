@@ -1,0 +1,8 @@
+prefix=/home/kw-cobot/catkin_ws/install
+
+Name: opencv_sim
+Description: Description of opencv_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/kw-cobot/catkin_ws/devel/lib/libvoxel_grid.so
+Symlinking /home/kw-cobot/catkin_ws/devel/lib/pkgconfig/voxel_grid.pc
+Symlinking /home/kw-cobot/catkin_ws/devel/share/voxel_grid/cmake/voxel_gridConfig-version.cmake
+Symlinking /home/kw-cobot/catkin_ws/devel/share/voxel_grid/cmake/voxel_gridConfig.cmake

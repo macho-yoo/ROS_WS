@@ -1,0 +1,12 @@
+[01m[K/home/kw-cobot/catkin_ws/src/navigation/base_local_planner/src/trajectory_planner.cpp:[m[K In member function ‘[01m[Kvoid base_local_planner::TrajectoryPlanner::reconfigure(base_local_planner::BaseLocalPlannerConfig&)[m[K’:
+[01m[K/home/kw-cobot/catkin_ws/src/navigation/base_local_planner/src/trajectory_planner.cpp:93:63:[m[K [01;31m[Kerror: [m[K‘[01m[Kmeter[m[K’ was not declared in this scope
+       oscillation_reset_dist_ = config.oscillation_reset_dist;[01;31m[Kmeter[m[K
+                                                               [01;31m[K^~~~~[m[K
+[01m[K/home/kw-cobot/catkin_ws/src/navigation/base_local_planner/src/trajectory_planner.cpp:93:63:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kmemmem[m[K’
+       oscillation_reset_dist_ = config.oscillation_reset_dist;[01;36m[Kmeter[m[K
+                                                               [01;36m[K^~~~~[m[K
+                                                               [32m[Kmemmem[m[K
+make[2]: *** [CMakeFiles/trajectory_planner_ros.dir/src/trajectory_planner.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/trajectory_planner_ros.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kw-cobot/catkin_ws/devel/.private/gw_ros_test/setup.sh

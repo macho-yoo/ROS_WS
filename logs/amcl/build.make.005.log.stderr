@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/kw-cobot/catkin_ws/src/amcl_simul/amcl/cfg/AMCL.cfg", line 41, in <module>
+    gen.add("laser_max_beams", int_t, 0, "How many evenly-spaced beams in each scan to be used when updating the filter.", 9.9, 0, 250) # back 3th 30 -> 9.9
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py", line 291, in add
+    self.group.add(name, paramtype, level, description, default, min, max, edit_method)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py", line 147, in add
+    self.gen.check_type_fill_default(newparam, 'default', self.gen.defval[paramtype])
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py", line 242, in check_type_fill_default
+    self.check_type(param, field)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/dynamic_reconfigure/parameter_generator_catkin.py", line 228, in check_type
+    raise TypeError("'%s' has type %s, but %s is %s" % (name, drtype, field, repr(value)))
+TypeError: 'laser_max_beams' has type int, but default is 9.9
+make[2]: *** [/home/kw-cobot/catkin_ws/devel/.private/amcl/include/amcl/AMCLConfig.h] Error 1
+make[1]: *** [CMakeFiles/amcl_gencfg.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

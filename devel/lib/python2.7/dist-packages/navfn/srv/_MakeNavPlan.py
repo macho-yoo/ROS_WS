@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/navfn/lib/python2.7/dist-packages/navfn/srv/_MakeNavPlan.py

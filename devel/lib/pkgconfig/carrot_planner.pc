@@ -1,0 +1,1 @@
+/home/kw-cobot/catkin_ws/devel/.private/carrot_planner/lib/pkgconfig/carrot_planner.pc

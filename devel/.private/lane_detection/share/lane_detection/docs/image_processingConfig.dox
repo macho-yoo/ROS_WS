@@ -1,0 +1,26 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~left_upper_x_pos" : \b [int] Left Upper Point x min: 0, default: 0, max: 640
+- \b "~left_upper_y_pos" : \b [int] Left Upper Point x min: 0, default: 0, max: 480
+- \b "~right_upper_x_pos" : \b [int] Right Upper Point x min: 0, default: 0, max: 640
+- \b "~right_upper_y_pos" : \b [int] Right Upper Point x min: 0, default: 0, max: 480
+- \b "~left_lower_x_pos" : \b [int] Left Lower Point x min: 0, default: 0, max: 640
+- \b "~left_lower_y_pos" : \b [int] Left Lower Point x min: 0, default: 0, max: 480
+- \b "~right_lower_x_pos" : \b [int] Right Lower Point x min: 0, default: 0, max: 640
+- \b "~right_lower_y_pos" : \b [int] Right Lower Point x min: 0, default: 0, max: 480
+- \b "~yellow_h_low" : \b [int] H Channel Low threshold min: 0, default: 50, max: 255
+- \b "~yellow_h_high" : \b [int] H Channel High threshold min: 0, default: 50, max: 255
+- \b "~yellow_l_low" : \b [int] L ChannelLow threshold min: 0, default: 50, max: 255
+- \b "~yellow_l_high" : \b [int] L Channel High threshold min: 0, default: 50, max: 255
+- \b "~yellow_s_low" : \b [int] S Channel Low threshold min: 0, default: 50, max: 255
+- \b "~yellow_s_high" : \b [int] S Channel High threshold min: 0, default: 50, max: 255
+- \b "~white_h_low" : \b [int] H Channel Low threshold min: 0, default: 50, max: 255
+- \b "~white_h_high" : \b [int] H Channel High threshold min: 0, default: 50, max: 255
+- \b "~white_l_low" : \b [int] L ChannelLow threshold min: 0, default: 50, max: 255
+- \b "~white_l_high" : \b [int] L Channel High threshold min: 0, default: 50, max: 255
+- \b "~white_s_low" : \b [int] S Channel Low threshold min: 0, default: 50, max: 255
+- \b "~white_s_high" : \b [int] S Channel High threshold min: 0, default: 50, max: 255
+- \b "~ref_line_x" : \b [int] Reference Line for calculate distance min: 0, default: 320, max: 640
+
